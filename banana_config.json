@@ -1,11 +1,11 @@
 {
-  "name": "AUTOMATIC1111 - Stable Diffusion 2.1",
+  "name": "AUTOMATIC1111 - Stable Diffusion 2.1 Turboboot",
   "category": "Computer Vision",
   "example_input": {
     "endpoint": "txt2img",
     "params": {
-      "prompt": "an astronaut riding a (horse:motorcycle:0.5) on the moon",
-      "negative_prompt": "cartoonish, low quality",
+      "prompt": "banana",
+      "negative_prompt": "low quality",
       "steps": 25,
       "sampler_name": "Euler a",
       "cfg_scale": 7.5,
